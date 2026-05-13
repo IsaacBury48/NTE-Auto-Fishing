@@ -24,3 +24,11 @@ Usage:
 
 Note: The program waits 5 seconds to allow NTE to be focused. Start the Auto-Clicker after 
 the program, otherwise the Auto Fishing isn't truly afk.
+
+Technical Details
+
+This program is designed to check in specific spots of the screen for specific pixel hex colors.
+Based on these colors, it will provide various keyboard input to allow autofishing. There is 
+currently no way to Hotkey to Start/Stop of the program yet. 
+
+This was made in all of 5 hours, 50% vibe-coded, 50% me-coded.
