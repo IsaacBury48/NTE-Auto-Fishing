@@ -1,4 +1,4 @@
-Program Name: NTE Auto Fishing
+NTE Auto Fishing
 
 Description:
 
