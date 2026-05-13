@@ -140,7 +140,7 @@ start_button = ttk.Button(top_frame, text="Start", command=start)
 stop_button = ttk.Button(top_frame, text="Stop", command=stop)
 Title = ttk.Label(top_frame, text="Auto Fishing", font=bold_ttlfont)
 
-pic = Image.open("Rice.jpg")
+pic = Image.open("assets/Rice.jpg")
 pic = pic.resize((50, 50))
 tk_pic = ImageTk.PhotoImage(pic)
 
