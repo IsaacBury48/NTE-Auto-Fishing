@@ -6,9 +6,9 @@
 This program is designed to allow AFK fishing when used in conjuction with an autoclicker (mostly cause I haven't added that funcitonality yet)
 
 ## **Usage**
-1. Download and install Python 3.14.0+ ; Be sure to add python to the environmental variables
+1. Download and install Python 3.14.0+ ; Be sure to add python to the environmental variables\
     Double check the python installation with the following command:
-        >python --version
+    > python --version
 2. Install the following python packages
     - NumPy
     - opencv-python
