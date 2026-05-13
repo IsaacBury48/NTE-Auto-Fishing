@@ -10,12 +10,12 @@ This program is designed to allow AFK fishing when used in conjuction with an au
     Double check the python installation with the following command:
         >python --version
 2. Install the following python packages\
-    - NumPy\
-    - opencv-python\
-    - pyautogui\
-    - pynput\
-    - mss\
-    - pillow\
+    - NumPy
+    - opencv-python
+    - pyautogui
+    - pynput
+    - mss
+    - pillow
 
     This can be done with the following command in an elevated command prompt:
     > pip install numpy opencv-python pyautogui pynput mss pillow
